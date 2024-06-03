@@ -1,0 +1,151 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+.nav-main {
+    background: #615EFC;
+    padding: 10px 0;
+}
+.nav-items {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link {
+    text-decoration: none;
+    color: #fff;
+}
+.nav-link:hover {
+    color: #fff;
+}
+.active {
+    font-size: 30px;
+}
+.fa-solid {
+    color: #fff;
+    font-size: 35px;
+    cursor: pointer;
+    padding: 2px;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+}
+.cart-span {
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -12px;
+    right: -10px;
+    border-radius: 50px;
+    padding: 4px;
+    background: red;
+    font-size: 14px;
+    cursor: default;
+    
+}
+.main-card {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    transition: 0.2s;
+}
+.main-card:hover {
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 2px 4px, rgba(3, 102, 214, 0.3) 0px 7px 13px -3px, rgba(3, 102, 214, 0.3) 0px -3px 0px inset;
+}
+.image {
+    width: 100%;
+    height: 250px;
+    padding: 20px 20px 10px;
+    transition: 0.3s;
+}
+.image:hover {
+    transform: scale(1.1);
+
+}
+.card-footer {
+    border: none;
+}
+.btn {
+    background: #615EFC;
+    color: #fff;
+    font-weight: 600;
+}
+.btn:hover {
+    color: #fff;
+}
+
+/* ------------------------------------------------ */
+.offcanvas-header {
+    background: #615EFC;
+}
+.offcanvas-title,
+.side-button {
+    color: #fff;
+
+}
+.sideCartTotal {
+    display: block;
+}
+
+.sideCartTotalPrice {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 7px;
+}
+.cartTotalPriceGet {
+    display: none;
+}
+
+/* ------------------------------------------------ */
+.sideCartCol4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sideCartCol4 img {
+    max-width: 77%;
+    padding: 10px;
+}
+.sideCartTitle {
+    font-size: 15px;
+    font-weight: 500;
+}
+.dollor {
+    color: red;
+}
+/* ------------------------------------------------ */
+.sideCartPriceDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cartPrice {
+    display: inline;
+    padding-top: 10px;
+}
+.quantaty {
+    display: flex;
+    justify-content: space-evenly;
+}
+.qntButton {
+    width: 20px;
+    padding: 0px 3px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sideCartShowQnt {
+    font-size: 17px;
+    color: #000;
+    display: inline;
+    padding: 4px 3px 0;
+}
+/* ------------------------------------------------ */
