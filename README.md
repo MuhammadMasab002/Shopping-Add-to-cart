@@ -7,21 +7,27 @@ This repository contains a front-end project that simulates a shopping cart func
 Check out the live demo of the project [shopping-add-to-cart](https://shopping-add-too-cart.netlify.app/).
 
 ## Project Sections
-### 1. Products Section
+### 1. Products Section:
 The products section displays a variety of items available for purchase. Each product is presented with an image, name, price, and an "Add to Cart" button. Users can explore different products and add their desired items to the cart.
 
-### 2. Add-to-Cart Preview Section
+### 2. Add-to-Cart Preview Section:
 The add-to-cart preview section provides a summary of the items that have been added to the cart. It includes the product images, names, prices, and a remove button for each item. Additionally, the total price of the selected items is calculated and displayed, allowing users to proceed to checkout.
 
 ## Key Features and JavaScript Topics Covered
 This project demonstrates various JavaScript concepts and techniques, including:
 
-- **Asynchronous JavaScript (async and await):** Managing asynchronous operations to fetch product data and update the UI dynamically.
-- **Fetch APIs:** Using the Fetch API to retrieve product data from a server or external source.
-- **DOM Manipulation:** Interacting with the Document Object Model to dynamically update the content and structure of the webpage based on user actions.
-- **Map Loop:** Utilizing the `map` function to iterate over product data and render the product list.
-- **Arrow Functions:** Employing arrow functions for concise and readable function expressions.
-- **Event Handling:** Implementing event listeners to handle user interactions such as adding and removing items from the cart.
+- **Asynchronous JavaScript (async and await):**
+  Managing asynchronous operations to fetch product data and update the UI dynamically.
+- **Fetch APIs:**
+  Using the Fetch API to retrieve product data from a server or external source.
+- **DOM Manipulation:**
+  Interacting with the Document Object Model to dynamically update the content and structure of the webpage based on user actions.
+- **Map Loop:**
+  Utilizing the `map` function to iterate over product data and render the product list.
+- **Arrow Functions:**
+  Employing arrow functions for concise and readable function expressions.
+- **Event Handling:**
+  Implementing event listeners to handle user interactions such as adding and removing items from the cart.
 
 ## Screenshots
 Here are some screenshots of the project to give you a visual overview:
