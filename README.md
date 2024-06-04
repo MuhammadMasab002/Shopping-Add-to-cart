@@ -1,4 +1,4 @@
-![4](https://github.com/MuhammadMasab002/Shopping-Add-to-cart/assets/121292086/fd81e415-d9c9-4d31-9d2b-751aa6bb61fc)![5](https://github.com/MuhammadMasab002/Shopping-Add-to-cart/assets/121292086/39a9f5d8-01e3-4f94-b3b5-bb005bbfa0c5)# Add-to-Cart Project
+# Add-to-Cart Project
 
 ## Overview
 This repository contains a front-end project that simulates a shopping cart functionality. The project uses HTML5, CSS3, Bootstrap5, and primarily JavaScript. It showcases an interactive interface where users can browse products and add them to their cart, with a dynamic preview of the selected items.
