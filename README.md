@@ -1,10 +1,10 @@
-# Add-to-Cart Project
+![4](https://github.com/MuhammadMasab002/Shopping-Add-to-cart/assets/121292086/fd81e415-d9c9-4d31-9d2b-751aa6bb61fc)![5](https://github.com/MuhammadMasab002/Shopping-Add-to-cart/assets/121292086/39a9f5d8-01e3-4f94-b3b5-bb005bbfa0c5)# Add-to-Cart Project
 
 ## Overview
 This repository contains a front-end project that simulates a shopping cart functionality. The project uses HTML5, CSS3, Bootstrap5, and primarily JavaScript. It showcases an interactive interface where users can browse products and add them to their cart, with a dynamic preview of the selected items.
 
 ## Live Demo
-Check out the live demo of the project [here](https://shopping-add-too-cart.netlify.app/).
+Check out the live demo of the project [shopping-add-to-cart](https://shopping-add-too-cart.netlify.app/).
 
 ## Project Sections
 ### 1. Products Section
@@ -28,7 +28,7 @@ Here are some screenshots of the project to give you a visual overview:
 
 ### Products Section
 ![Screenshort-1]
-![1](https://g ithub.com/MuhammadMasab002/Shopping-Add-to-cart/assets/121292086/5bf8d6dc-83e8-4fbe-9e0f-c021a64eb543)
+![1](https://github.com/MuhammadMasab002/Shopping-Add-to-cart/assets/121292086/5bf8d6dc-83e8-4fbe-9e0f-c021a64eb543)
 
 ### Add-to-Cart Preview Section
 ![Screenshort-1]
@@ -39,11 +39,10 @@ Here are some screenshots of the project to give you a visual overview:
 
 ### Checkout Confirmation
 ![Screenshort-1]
-![Uploading 5. png…]()
+![5](https://github.com/MuhammadMasab002/Shopping-Add-to-cart/assets/121292086/92ec0412-f5d8-4174-a52f-f22c6398a473)
 
 ## How to Use
-1. Clone the repository:
-`git clone https://github.com/yourusername/your-repository.git`
+1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git`
 2. Navigate to the project directory: `cd your-repository`
 3. Open `index.html` in your web browser to view the project.
 
