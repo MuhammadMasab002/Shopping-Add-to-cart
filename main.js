@@ -138,9 +138,8 @@ async function getData() {
                 //// check condition for dynamic-count to see alert
                 if (dynamic_count.innerHTML != 0) {
                     alert(`Your Products has been placed successfully! :) Total Price: $${myTotal}`);
-                }else {
-                    alert('Product is not found! :( ');
                 }
+
                 //// remove all items on click to check-out button
                 sideCartEli.remove();
                 dynamic_count.innerHTML = 0;
